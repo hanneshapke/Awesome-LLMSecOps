@@ -138,6 +138,11 @@
 <td>Open-source proxy gateway for AI API keys with AES-256-GCM encryption and instant kill switches. Protects against credential theft in agentic workflows.</td>
 <td><img src="https://img.shields.io/github/stars/venkat22022202/black-vault?style=social" alt="GitHub stars"></td>
 </tr>
+<tr>
+<td><a href="https://github.com/dataiku/kiji-proxy">🛡️ Kiji Privacy Proxy</a></td>
+<td>Open-source proxy for mask ing messages to closed source models. Transparent and forward proxy. MacOS, Linux, Chrome extension.</td>
+<td><img src="https://img.shields.io/github/stars/dataiku/kiji-proxy?style=social" alt="GitHub stars"></td>
+</tr>
 </table>
 
 <h2>🛡️Defense</h2>
